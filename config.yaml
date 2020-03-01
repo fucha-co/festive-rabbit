@@ -1,9 +1,9 @@
 title: DBM Management
 baseURL: /
 params:
-  palette: blue
+  palette: orange
   header:
-    title: Azimuth
+    title: DBM
     logo_img: images/logo.png
     has_nav: true
     menu:
