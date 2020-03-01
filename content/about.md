@@ -8,6 +8,9 @@ menu:
   secondary:
     name: About Us
     weight: 1
+  main:
+    name: About
+    weight: 1
 layout: page
 ---
 
