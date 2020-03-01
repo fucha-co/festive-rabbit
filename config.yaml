@@ -1,10 +1,10 @@
 title: DBM Management
 baseURL: /
 params:
-  palette: orange
+  palette: blue
   header:
     title: DBM
-    logo_img: images/logo.png
+    logo_img: /images/dbm-logo-sm.png
     has_nav: true
     menu:
       actions:
