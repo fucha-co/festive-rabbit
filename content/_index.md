@@ -84,7 +84,7 @@ sections:
 menu:
   main:
     name: Home
-    weight: 1
+    weight: 0
 layout: landing
 ---
 
