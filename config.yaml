@@ -8,14 +8,14 @@ params:
     has_nav: true
     menu:
       actions:
-        - label: Sign Up
+        - label: Contact Us
           url: /signup
   footer:
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
     has_subscribe: true
     social_title: Community
-    tagline: SaaS theme by Stackbit
+    tagline: Website by STOQE
     logo_img: images/logo_alt.png
     has_social: true
     content: '&copy; Stackbit. All rights reserved.'
